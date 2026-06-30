@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sujoy Mondal
 
-<!--
-**sujoymondal87/sujoymondal87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founding Engineer & Systems Architect**
 
-Here are some ideas to get you started:
+15 years building production systems for museums and cultural institutions across Europe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repositories
+
+* AI Orchestration Middleware — 🌐 https://goalawareai.vercel.app/
+* Offline First Browser Runtime — 🌐 https://offlineguide.vercel.app/
+* Browser AR Runtime — 🌐 https://webar-studio.vercel.app/
+* WebSocket Audio Sync — 🌐 https://realtimesync.onrender.com/
+
+## Engineering Portfolio
+
+Explore six production engineering case studies covering offline-first runtimes, AI orchestration, browser AR, analytics pipelines, synchronization systems, and no-code platform architecture.
+
+🌐 https://sujoymondal-tech.vercel.app
+
+## Connect
+
+💻 GitHub — https://github.com/sujoymondal87
+
+💼 LinkedIn — https://www.linkedin.com/in/sujoymondal-tech/
+
+📧 Email — [sujoymondal87@gmail.com](mailto:sujoymondal87@gmail.com)
