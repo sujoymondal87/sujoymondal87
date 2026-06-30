@@ -6,7 +6,7 @@
 
 ## Featured Repositories
 
-* AI Orchestration Middleware — 🌐 [https://goalawareai.vercel.app](goalawareai.vercel.app)
+* AI Orchestration Middleware — 🌐 [goalawareai.vercel.app](https://goalawareai.vercel.app)
 * Offline First Browser Runtime — 🌐 https://offlineguide.vercel.app/
 * Browser AR Runtime — 🌐 https://webar-studio.vercel.app/
 * WebSocket Audio Sync — 🌐 https://realtimesync.onrender.com/
