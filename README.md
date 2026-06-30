@@ -7,20 +7,20 @@
 ## Featured Repositories
 
 * AI Orchestration Middleware — 🌐 [goalawareai.vercel.app](https://goalawareai.vercel.app)
-* Offline First Browser Runtime — 🌐 https://offlineguide.vercel.app/
-* Browser AR Runtime — 🌐 https://webar-studio.vercel.app/
-* WebSocket Audio Sync — 🌐 https://realtimesync.onrender.com/
+* Offline First Browser Runtime — 🌐 [offlineguide.vercel.app](https://offlineguide.vercel.app)
+* Browser AR Runtime — 🌐 [webar-studio.vercel.app](https://webar-studio.vercel.app)
+* WebSocket Audio Sync — 🌐 [realtimesync.onrender.com](https://realtimesync.onrender.com)
 
 ## Engineering Portfolio
 
 Explore six production engineering case studies covering offline-first runtimes, AI orchestration, browser AR, analytics pipelines, synchronization systems, and no-code platform architecture.
 
-🌐 https://sujoymondal-tech.vercel.app
+🌐 [sujoymondal-tech.vercel.app](https://sujoymondal-tech.vercel.app)
 
 ## Connect
 
-💻 GitHub — https://github.com/sujoymondal87
+💻 GitHub — [github.com/sujoymondal87](https://github.com/sujoymondal87)
 
-💼 LinkedIn — https://www.linkedin.com/in/sujoymondal-tech/
+💼 LinkedIn — [linkedin.com/in/sujoymondal-tech](https://www.linkedin.com/in/sujoymondal-tech)
 
 📧 Email — [sujoymondal87@gmail.com](mailto:sujoymondal87@gmail.com)
